@@ -1,0 +1,57 @@
+
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    color: #2c3e50;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-bottom: 3px solid #3498db;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+label {
+    font-weight: 500;
+}
+
+canvas {
+    max-width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    display: block;
+  }
+
+
+  
+
+.question {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+#results {
+    margin-top: 30px;
+}
+#results h2 {
+    margin-bottom: 20px;
+}
+#results ul {
+    list-style-type: none;
+    padding: 0;
+}
+#results li {
+    margin-bottom: 10px;
+}
+
+
+
